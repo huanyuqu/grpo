@@ -1,2 +1,3 @@
 *.safetensors
 *.parquet
+__pycache__/*
